@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1436169254 source:d:\codeblock\myhash\main.cpp
+	"myfile.h"
+
+1436169224 d:\codeblock\myhash\myfile.h
+	<vector>
+
+1436167039 source:d:\codeblock\myhash\myfile.cpp
+	<fstream>
+	<iostream>
+	<string>
+	<stdlib.h>
+	"myfile.h"
+

@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1436093678 source:d:\codeblock\myqueue\main.cpp
+	<iostream>
+	"Myqueue.h"
+
+1436093778 d:\codeblock\myqueue\myqueue.h
+
+1436094055 source:d:\codeblock\myqueue\myqueue.cpp
+	"Myqueue.h"
+	<string.h>
+	<assert.h>
+	<iostream>
+
